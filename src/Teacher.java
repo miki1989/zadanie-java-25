@@ -1,9 +1,6 @@
 public class Teacher extends  Person{
 
-    private String name;
-    private String lastName;
-    private int age;
-    private String hobby;
+
     private String faculty;
 
     public Teacher(String name, String lastName, int age, String hobby, String faculty) {

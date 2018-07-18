@@ -1,9 +1,6 @@
 public class Student extends  Person{
 
-    private String name;
-    private String lastName;
-    private int age;
-    private String hobby;
+
     private int pocketMoney;
 
     public Student(String name, String lastName, int age, String hobby, int pocketMoney) {
